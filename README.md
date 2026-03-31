@@ -13,7 +13,7 @@ Designed for continuous operation with real-time market adaptation, fault tolera
 - Fully automated trade lifecycle management (entry → scaling → exit)  
 - Fault-tolerant system with crash recovery and state persistence
 
-  ## Status
+## Status
 
 Currently running in live paper trading mode for validation and performance benchmarking. Transition to full capital deployment is gated by risk-adjusted performance thresholds.
 
